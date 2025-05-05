@@ -1,4 +1,4 @@
-#  Simulador de Autômatos em Python 
+#  Simulador de Autômatos em Python (TRABALHO IMCOMPLETO)
 
 Este programa simula autômatos finitos determinísticos (AFD), não determinísticos (AFND) e com transições-ε (AFND-ε), lendo sua definição de um arquivo `.json` e testando palavras a partir de um `.csv`.
 
